@@ -2,9 +2,14 @@
 > paper used: _Xiang T.R.Kong et al. (2010) Cyber physical ecommerce logistics system: An implementation case in Hong Kong Computers & Industrial Engineering, Volume 139, January 2020, 106170_
 ----------------------------
 ### Q1: Summarize the papers in a few sentences.
-Ans: 
+Ans: It is talking about the cross-border ecommerce development in the world. However, there are many limitations confines Hong Kong, such as space limitation, information technologies and practices lagged types etc. 
 ### Q2:What are the keywords used to categorize the paper?
-Ans:
+Ans: 
+* Internet
+* Business
+* Cross-border
+* Implementation case
+* Economic
 ### Q3:What are the main approaches? Comment on their novelty and technical depth.
 Ans:
 ### Q4: What are the major strengths of the paper?
@@ -35,3 +40,5 @@ Ans:
 | Facebook | Facebook | 340.0.0.27.113 | Social media |
 | Dropbox | Dropbox | 254.2.2 | Cloud-based storage service |
 | YouTube music | Google | 4.49.51 | Music player |
+
+
