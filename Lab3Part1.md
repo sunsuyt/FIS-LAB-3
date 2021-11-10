@@ -11,13 +11,13 @@ Ans:
 * Implementation case
 * Economic
 ### Q3:What are the main approaches? Comment on their novelty and technical depth.
-Ans:
+Ans: it's depth enough
 ### Q4: What are the major strengths of the paper?
-Ans:
+Ans: the tables and figures are easy for the reader to understand.
 ### Q5:What are the major weaknesses of the paper?
-Ans: 
+Ans: the languages is difficult.
 ### Q6: What do you learn from the paper? It can be either a new research area, or a new problem, or the approach itself, or evaluation methodology, or the results.
-Ans: 
+Ans: how the system works and the concept.
 
 ---------
 # Lab 1 Part 2 
